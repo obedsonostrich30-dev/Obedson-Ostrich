@@ -1,0 +1,17 @@
+# Obedson Ostrich
+
+## Computer Wizard | AI & Cybersecurity Developer
+
+Welcome to my official GitHub profile.
+
+### About Me
+I am a Ugandan student passionate about:
+- Python Programming
+- Artificial Intelligence
+- Cybersecurity
+- Web Development
+
+### Current Project
+**Pearl AI** — Building an intelligent AI assistant.
+
+> Creating technology that inspires Africa.
